@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 2019,
+    -"articles": [
+    -{
+    -"source": {
+    "id": "wired",
+    "name": "Wired"
+    },
+    "author": "Kate Knibbs",
+    "title": "With 'Silo,' Apple TV+ Strikes Prestige Sci-Fi Gold",
+    "description": "The long-gestating adaptation of Hugh Howey’s book series was worth the wait.",
+    "url": "https://www.wired.com/story/silo-apple-tv-plus-review/",
+    "urlToImage": "https://media.wired.com/photos/645a8d4893ba5cd8bbdc93d0/191:100/w_1280,c_limit/Silo-Review-Culture.jpg",
+    "publishedAt": "2023-05-10T13:00:00Z",
+    "content": "The first two episodes introduce viewers to the shows subterranean universe through the eyes of Sheriff Holston Becker (David Oyelowo) and his wife, Allison (Rashida Jones). Theyre happily living wit… [+3922 chars]"
+    },
+    -{
+    -"source": {
+    "id": "the-verge",
+    "name": "The Verge"
+    },
+    "author": "Jennifer Pattison Tuohy",
+    "title": "The new Google Home app is finally here",
+    "description": "Google launched its redesigned Home app at Google I/O this week, showing off a host of new features designed to make controlling your smart home simpler.",
+    "url": "https://www.theverge.com/2023/5/10/23717404/google-home-app-release-date-features-matter-io",
+    "urlToImage": "https://cdn.vox-cdn.com/thumbor/X0bij8M8eVsPbE0qnKJfA4Mj0dI=/0x0:4000x2250/1200x628/filters:focal(2000x1125:2001x1126)/cdn.vox-cdn.com/uploads/chorus_asset/file/24645325/GHA_5_Tab_Layout.png",
+    "publishedAt": "2023-05-10T18:55:30Z",
+    "content": "The new Google Home app is a complete redesign of the smart home controller. | Image: Google\r\n\n \n\n\n A much-needed update brings greater control and customizability. Plus, Google updates its iOS app t… [+12873 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Gizmodo.com"
+    },
+    "author": "Kyle Barr",
+    "title": "Judge Tells Jack Dorsey’s Block It’s Allowed to Make ‘Terrible’ Decisions Like Buying Tidal",
+    "description": "The courts have reaffirmed big tech businesses’ rights to be incredibly bullheaded, braindead, erroneous, and just plain old dumb, as long as they at least think they’re making the right move. That’s good news for Jack Dorsey and his fintech company Block, wh…",
+    "url": "https://gizmodo.com/jack-dorsey-block-tidal-jay-z-music-streaming-1850423469",
+    "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/60d61f05fdb29e4981ec7cbf7967e224.jpg",
+    "publishedAt": "2023-05-10T14:45:42Z",
+    "content": "The courts have reaffirmed big tech businesses rights to be incredibly bullheaded, braindead, erroneous, and just plain old dumb, as long as they at least think theyre making the right move. Thats go… [+3226 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Android Central"
+    },
+    "author": "andrew.myrick@futurenet.com (Andrew Myrick)",
+    "title": "Here’s everything you can buy for the price of a Pixel Fold",
+    "description": "The rumors about the Pixel Fold's price came to fruition, as Google's first foray into the foldable market matches up with Samsung's Galaxy Z Fold 4. But instead of dropping $1,800 on the Pixel Fold, here are a bunch of things that you can buy instead.",
+    "url": "https://www.androidcentral.com/phones/what-to-buy-instead-of-google-pixel-fold",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/m6ApZR9zuEvb55zknYs7h8-1200-80.jpg",
+    "publishedAt": "2023-05-10T21:43:52Z",
+    "content": "One of the biggest complaints with foldable phones is the price tag. These are quite expensive, even with Samsung dropping the price of its foldable phone from about $2,000 down to $1,800 with the Ga… [+6292 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Android Central"
+    },
+    "author": "harish.jonnalagadda@futurenet.com (Harish Jonnalagadda)",
+    "title": "The Pixel Fold and Pixel Tablet aren't launching in India, and I'm pissed",
+    "description": "Google won't launch the Pixel Fold and Pixel Tablet in India, once again relegating the country to a second-tier market that doesn't get the brand's best products.",
+    "url": "https://www.androidcentral.com/phones/pixel-fold-pixel-tablet-not-launching-in-india-and-im-pissed",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/yuZPNwG5nQKYDVFY8gkpp9-1200-80.jpg",
+    "publishedAt": "2023-05-10T19:27:50Z",
+    "content": "Google just unveiled its latest hardware products, and the Pixel 7a builds on the strengths of its predecessor and is in contention for one of the best mid-range phones of the year. The Pixel Tablet … [+6910 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Android Central"
+    },
+    "author": "andrew.myrick@futurenet.com (Andrew Myrick)",
+    "title": "Google Pixel Fold vs. Samsung Galaxy Z Fold 4: Is there a clear winner?",
+    "description": "With the Pixel Fold on the way, we break down whether you should try out Google's first foldable phone or whether the Galaxy Z Fold 4 is the better overall choice.",
+    "url": "https://www.androidcentral.com/phones/google-pixel-fold-vs-samsung-galaxy-z-fold-4",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/8AkwE69E7prhqCYmyc695T-1200-80.jpg",
+    "publishedAt": "2023-05-10T19:44:27Z",
+    "content": "After a couple of years of dealing with rumors that would appear out of nowhere, Google has finally and officially unveiled its first foldable phone. This came as quite a surprise, given that the com… [+12984 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "The Guardian"
+    },
+    "author": "Samuel Gibbs Consumer technology editor",
+    "title": "Google launches Pixel Fold, Tablet and 7a Android devices",
+    "description": "Firm’s first folding phone announced with cheaper smartphone and tablet smart display hybridGoogle has announced a range of new Pixel mobile gadgets, including its first folding phone and an Android tablet that doubles as a smart display when docked and charg…",
+    "url": "https://www.theguardian.com/technology/2023/may/10/google-launches-pixel-fold-tablet-and-7a-android-devices",
+    "urlToImage": "https://i.guim.co.uk/img/media/673d985d8c04f60a289df0ed1ed963cde635f86c/1972_1082_6341_3806/master/6341.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4f3289c64b0dc605ad9d27f78f213459",
+    "publishedAt": "2023-05-10T19:00:05Z",
+    "content": "Google has announced a range of new Pixel mobile gadgets, including its first folding phone and an Android tablet that doubles as a smart display when docked and charging at home.\r\nUnveiled as part o… [+2943 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "MacRumors"
+    },
+    "author": "Joe Rossignol",
+    "title": "Shazam Now Supports Apple Music Classical",
+    "description": "Shazam was updated today with support for Apple Music Classical on the iPhone, allowing the two apps to work together for classical music.\n\n\n\n\n\nLaunched in March, the Apple Music Classical app offers over five million classical music tracks, and is included w…",
+    "url": "https://www.macrumors.com/2023/05/10/shazam-apple-music-classical/",
+    "urlToImage": "https://images.macrumors.com/t/WNRjOkHUutuPBsMLb778Yp7f02k=/2000x/article-new/2022/08/shazam-for-mac.jpg",
+    "publishedAt": "2023-05-10T14:09:09Z",
+    "content": "Shazam was updated today with support for Apple Music Classical on the iPhone, allowing the two apps to work together for classical music.\r\nLaunched in March, the Apple Music Classical app offers ove… [+485 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "MacRumors"
+    },
+    "author": "Mitchel Broussard",
+    "title": "Deals: Anker Discounting USB-C Accessories, Bluetooth Speakers, and More on Amazon",
+    "description": "Anker today has a collection of discounts on Amazon, offering savings on cables, USB-C accessories, wall chargers, Bluetooth speakers, and more. Many of these discounts will only run this week, so if you're interested be sure to place an order soon.\n\n\n\nNote: …",
+    "url": "https://www.macrumors.com/2023/05/10/deals-ankers-new-amazon-sale/",
+    "urlToImage": "https://images.macrumors.com/t/oI13gTfzXNF7Fuw9B3LsC9ln2mk=/1600x/article-new/2023/05/anker-may-10.jpg",
+    "publishedAt": "2023-05-10T16:17:14Z",
+    "content": "Anker today has a collection of discounts on Amazon, offering savings on cables, USB-C accessories, wall chargers, Bluetooth speakers, and more. Many of these discounts will only run this week, so if… [+741 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "CNET"
+    },
+    "author": "Adam Oram",
+    "title": "Huge Woot MacBook Sale Offers New and Refurbished M1 and M2 Machines From Just $550 - CNET",
+    "description": "Deal of the day: Get one of Apple's latest MacBook Air or MacBook Pro models at a deep discount while supplies last.",
+    "url": "https://www.cnet.com/deals/huge-woot-macbook-sale-offers-new-and-refurbished-m1-and-m2-machines-from-just-550/",
+    "urlToImage": "https://www.cnet.com/a/img/resize/871bc03153eca63d4d87f1bd8733d2c90ac76feb/hub/2023/05/10/4a67eb8d-7195-4831-813e-5875bcaf370a/macbook-air-m2-macbook-pro-14-inch.png?auto=webp&fit=crop&height=675&width=1200",
+    "publishedAt": "2023-05-10T09:27:00Z",
+    "content": "If you're looking for a premium laptop, Apple MacBooks are hard to beat, but finding good MacBook deal isn't always easy since Apple rarely offers discounts on its products directly. However, if you … [+2206 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "CNET"
+    },
+    "author": "Scott Stein",
+    "title": "Google Builds AR for Everywhere From Maps - CNET",
+    "description": "Exclusive: Before it even has a headset, Google's new creative AR tools promise real-world games, concerts and shopping.",
+    "url": "https://www.cnet.com/tech/computing/google-builds-ar-for-everywhere-from-maps/",
+    "urlToImage": "https://www.cnet.com/a/img/resize/852d1c67854038c9bddf7a0ddee517d1783b8cb3/hub/2023/05/10/1c60b96f-c187-4ab2-bfb8-93da7c59dbfa/0-hero-image-for-blog-arcore-4209x1253.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "publishedAt": "2023-05-10T20:00:00Z",
+    "content": "While much of the AR world looks to Apple and its rumored upcoming VR/AR headset, Google is making some moves of its own. The company is planning a mixed reality partnership with Samsung and Qualcomm… [+5649 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "CNET"
+    },
+    "author": "Scott Stein",
+    "title": "Google's Holographic Project Starline Shrinks to the Size of a TV - CNET",
+    "description": "Exclusive: Google's vision of 3D conversational chats is going from booth to flat screen.",
+    "url": "https://www.cnet.com/tech/computing/googles-holographic-project-starline-shrinks-to-the-size-of-a-tv/",
+    "urlToImage": "https://www.cnet.com/a/img/resize/9d69547c61f9414b71957c7fc8a2a9a29212f6f3/hub/2023/05/09/41cb2a17-8397-45fc-b182-f140fbcd3775/project-starline-new-model.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "publishedAt": "2023-05-10T19:15:02Z",
+    "content": "While most people have chosen to avoid wearing VR and AR headsets for one-on-one group chats, Google's Project Starline envisions some sort of happy medium between corporate Zooms and a future of flo… [+2271 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "CNET"
+    },
+    "author": "Lori Grunin",
+    "title": "Google I/O's Big Reveals: Pixel Fold, Pixel 7A, Android 14, AI and More - CNET",
+    "description": "Google's annual developer conference brought news of its whizzy Magic Editor, its first folding phone, new devices and AI. Lots of AI.",
+    "url": "https://www.cnet.com/tech/google-ios-big-reveals-pixel-fold-pixel-7a-android-14-ai-and-more/",
+    "urlToImage": "https://www.cnet.com/a/img/resize/b57c2df2fec88e0507f874db0a15bd562730baf8/hub/2023/05/04/7ffa3237-e5df-4f77-89ef-78bd264edcb9/google-pixel-fold-phone-google-io-2023-3.jpg?auto=webp&fit=crop&height=630&width=1200",
+    "publishedAt": "2023-05-10T17:00:00Z",
+    "content": "In addition to the long-awaited Pixel Fold, Google's first foldable phone, at its Google I/O 2023 developer conference the company showed off other new devices -- the Pixel 7A phone and a revamped Pi… [+6738 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "CNET"
+    },
+    "author": "Macy Meyer",
+    "title": "Google Unveils Redesign and Major Updates Coming to Google Home App - CNET",
+    "description": "The updates include easier ways to view your cameras, better support for Matter-enabled devices, and more.",
+    "url": "https://www.cnet.com/tech/services-and-software/google-unveils-redesign-and-major-updates-coming-to-google-home-app/",
+    "urlToImage": "https://www.cnet.com/a/img/resize/6117305c5b76675e36b20495e8bb1fda7515025b/hub/2023/05/09/4180ac68-9ed6-4e00-be36-fe1456747681/gha-5-tab-layout.png?auto=webp&fit=crop&height=675&width=1200",
+    "publishedAt": "2023-05-10T18:48:00Z",
+    "content": "Google I/O 2023 is here and brings with it several important changes to your Google Home app. \r\nOn Wednesday, the company announced a major redesign of the app, as well as a handful of new features f… [+4219 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "MacRumors"
+    },
+    "author": "Joe Rossignol",
+    "title": "iPhone With MicroLED Display Reportedly on Apple's Roadmap",
+    "description": "Apple plans to release an iPhone with a microLED display in the future, according to a report today from supply chain publication DigiTimes. This display technology would allow for higher brightness, decreased power consumption, improved contrast ratio, and o…",
+    "url": "https://www.macrumors.com/2023/05/10/microled-iphone-report/",
+    "urlToImage": "https://images.macrumors.com/t/OFqcCQFB0hGfdQkbo1Ziqd-56f0=/2500x/article-new/2023/02/iphone-14-pro-max-deep-purple-feature-purple.jpg",
+    "publishedAt": "2023-05-10T17:01:27Z",
+    "content": "Apple plans to release an iPhone with a microLED display in the future, according to a report today from supply chain publication DigiTimes. This display technology would allow for higher brightness,… [+1154 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "MacRumors"
+    },
+    "author": "Juli Clover",
+    "title": "Apple TV+ and Sports Business Exec Leaves Company",
+    "description": "Apple is losing yet another services executive, with TV+ lead Pete Distad set to depart the company, according to Bloomberg. Distad is in charge of the business and operations side of the Apple TV app, Apple TV+, and Apple's sports efforts.\n\n\n\n\n\nHe is respons…",
+    "url": "https://www.macrumors.com/2023/05/10/apple-tv-plus-exec-departs-company/",
+    "urlToImage": "https://images.macrumors.com/t/KrNLjmGnptCUVBzzHI3bfULhtY4=/2500x/article-new/2022/10/Apple-TV-2022-Feature-Blue.jpg",
+    "publishedAt": "2023-05-10T18:15:03Z",
+    "content": "Apple is losing yet another services executive, with TV+ lead Pete Distad set to depart the company, according to Bloomberg. Distad is in charge of the business and operations side of the Apple TV ap… [+732 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "MacRumors"
+    },
+    "author": "Tim Hardwick",
+    "title": "How to Protect Your Apple ID With Security Keys",
+    "description": "Apple has introduced security keys as an additional step to help users protect their Apple ID accounts. Keep reading to learn why the alternative authentication method is the most secure method available and what you need to do to set it up.\n\n\n\n\n\nWhat Are Sec…",
+    "url": "https://www.macrumors.com/how-to/protect-apple-id-security-keys/",
+    "urlToImage": "https://images.macrumors.com/t/gXQRaQVmxvn4o0bN1kTW3eF4iNE=/3200x/article-new/2022/12/ios-16-3-security-keys-info.jpg",
+    "publishedAt": "2023-05-10T20:48:31Z",
+    "content": "Apple has introduced security keys as an additional step to help users protect their Apple ID accounts. Keep reading to learn why the alternative authentication method is the most secure method avail… [+4260 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Slashdot.org"
+    },
+    "author": "BeauHD",
+    "title": "Ford CEO Says It Will Keep Apple CarPlay, Android Auto: 'We Lost That Battle 10 Years Ago'",
+    "description": "An anonymous reader quotes a report from The Drive: While General Motors has announced that it plans to phase out CarPlay in its EVs starting in 2024, Ford has just doubled down on long-term CarPlay compatibility. In an interview with The Wall Street Journal,…",
+    "url": "https://tech.slashdot.org/story/23/05/10/0352259/ford-ceo-says-it-will-keep-apple-carplay-android-auto-we-lost-that-battle-10-years-ago",
+    "urlToImage": "https://a.fsdn.com/sd/topics/transportation_64.png",
+    "publishedAt": "2023-05-10T13:00:00Z",
+    "content": "While General Motors has announced that it plans to phase out CarPlay in its EVs starting in 2024, Ford has just doubled down on long-term CarPlay compatibility. In an interview with The Wall Street … [+996 chars]"
+    },
+    -{
+    -"source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "Theron Mohamed",
+    "title": "Warren Buffett's Apple bet is worth $158 billion or 22% of Berkshire Hathaway's total market value. The investor gave 5 reasons why he's not stressing about the wager's size.",
+    "description": "Warren Buffett downplayed his Apple wager's size, and praised the tech titan's business model, beloved devices, stock buybacks, and bright outlook.",
+    "url": "https://markets.businessinsider.com/news/stocks/warren-buffett-apple-tech-stock-portfolio-berkshire-hathaway-iphone-cook-2023-5",
+    "urlToImage": "https://i.insider.com/5f199446aee6a8027556f22b?width=1200&format=jpeg",
+    "publishedAt": "2023-05-10T14:52:53Z",
+    "content": "Warren Buffett.AP Images\r\n<ul>\n<li>Warren Buffett defended the size of Berkshire Hathaway's $158 billion stake in Apple on Saturday.</li>\n<li>The investor praised the iPhone maker's economics, loyal … [+3136 chars]"
+    },
+    -{
+    -"source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "Rick Stella",
+    "title": "Amazon is ending support for Halo wearables on July 31: Here's how to get a refund",
+    "description": "Amazon's Halo product line is coming to a close on July 31, but you can get refunds on the wearables, subscriptions, and more.",
+    "url": "https://www.businessinsider.com/guides/tech/amazon-halo-shut-down-refunds",
+    "urlToImage": "https://i.insider.com/645a99bf65a21600192fd497?width=1200&format=jpeg",
+    "publishedAt": "2023-05-10T14:07:17Z",
+    "content": "When you buy through our links, Insider may earn an affiliate commission. Learn more.\r\nAmazon's Halo line of fitness trackers and wellness products is officially shutting down, the company announced … [+2870 chars]"
+    },
+    -{
+    -"source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "Grace Kay",
+    "title": "Billionaire investors Warren Buffett and Charlie Munger aren't sold on AI hype: 'Old-fashioned intelligence works pretty well'",
+    "description": "Warren Buffett said Bill Gates showed him AI and while it did \"remarkable things,\" the investor said \"it just isn't there\" for some things.",
+    "url": "https://www.businessinsider.com/billionaires-warren-buffett-charlie-munger-not-sold-ai-hype-2023-5",
+    "urlToImage": "https://i.insider.com/645b961f65a21600192fe795?width=1200&format=jpeg",
+    "publishedAt": "2023-05-10T16:26:48Z",
+    "content": "Warren Buffett (left) and Charlie Munger (right) expressed skepticism about AI during Berkshire Hathaway's annual shareholder meeting on Saturday.JOHANNES EISELE/Getty Images\r\n<ul>\n<li>Warren Buffett… [+3058 chars]"
+    },
+    -{
+    -"source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "Antonio Villas-Boas",
+    "title": "Google Pixel 7a review: The same performance as Google's flagship phones at a remarkable value",
+    "description": "Google's Pixel 7a runs on the same processor as the premium Pixel 7 lineup. It starts at $500 and offers stunning value for its mid-range price.",
+    "url": "https://www.businessinsider.com/guides/tech/google-pixel-7a-review",
+    "urlToImage": "https://i.insider.com/645a740165a21600192fc9c8?width=1200&format=jpeg",
+    "publishedAt": "2023-05-10T19:45:21Z",
+    "content": "When you buy through our links, Insider may earn an affiliate commission. Learn more.\r\nSince Google first released its Pixel A-series in 2019, phone buyers looking for the best bang for their buck ha… [+9160 chars]"
+    },
+    -{
+    -"source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "Connie Chen",
+    "title": "43 last-minute Mother's Day gifts you can get on Amazon in time for Sunday",
+    "description": "Celebrate your mom with our top 43 last-minute Mother's Day gift picks from Amazon, including affordable treats and fancy kitchen gadgets.",
+    "url": "https://www.businessinsider.com/guides/gifts/last-minute-mothers-day-gifts-amazon-2023",
+    "urlToImage": "https://i.insider.com/643871c2051ad10018c47cb3?width=1200&format=jpeg",
+    "publishedAt": "2023-05-10T17:57:49Z",
+    "content": "When you buy through our links, Insider may earn an affiliate commission. Learn more.Amazon; Insider\r\nIf you've fallen behind on Mother's Day gift ideas or want to get more creative than the classic … [+15176 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Hipertextual"
+    },
+    "author": "Nolan Rada Galindo",
+    "title": "Mira el primer tráiler de la serie ‘The Crowded Room’, con Tom Holland",
+    "description": "Mientras su futuro dentro del Universo Cinematográfico de Marvel sigue sin estar claro, Tom Holland avanza sobre otros proyectos artísticos. El más reciente de ellos, y sobre el que ya hay un primer tráiler, es The Crowded Room. Se trata de un relato en el qu…",
+    "url": "http://hipertextual.com/2023/05/the-crowded-room-trailer-apple-tv-tom-holland",
+    "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2023/05/The-Crowded-Room-protagonizada-por-Tom-Holland-scaled.jpg",
+    "publishedAt": "2023-05-10T16:02:35Z",
+    "content": "Mientras su futuro dentro del Universo Cinematográfico de Marvel sigue sin estar claro, Tom Holland avanza sobre otros proyectos artísticos. El más reciente de ellos, y sobre el que ya hay un primer … [+2975 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Hipertextual"
+    },
+    "author": "Tomás Rivero",
+    "title": "Elon Musk anuncia la próxima gran novedad de Twitter: las llamadas de audio y vídeo",
+    "description": "Nuevas promesas llegan a la tierra de Twitter. Elon Musk, el CEO y dueño de la red social, anunció la llegada de dos importantes funciones. La más llamativa de ellas es la capacidad para hacer llamadas de audio y vídeo con tus amigos, todo directamente en la …",
+    "url": "http://hipertextual.com/2023/05/elon-musk-anuncia-llamadas-audio-video-twitter",
+    "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2023/03/Elon-Musk-Twitter-4-scaled-1.webp",
+    "publishedAt": "2023-05-10T20:12:20Z",
+    "content": "Nuevas promesas llegan a la tierra de Twitter. Elon Musk, el CEO y dueño de la red social, anunció la llegada de dos importantes funciones. La más llamativa de ellas es la capacidad para hacer llamad… [+3114 chars]"
+    },
+    -{
+    -"source": {
+    "id": "polygon",
+    "name": "Polygon"
+    },
+    "author": "Matt Patches",
+    "title": "Tom Holland’s The Crowded Room trailer is full of mysteries, but also that haircut",
+    "description": "Holland and Amanda Seyfried lead the cast of Apple TV Plus’ new true crime series releasing in June about split personalities aka dissociative identity disorder",
+    "url": "https://www.polygon.com/23718244/tom-holland-crowded-room-trailer",
+    "urlToImage": "https://cdn.vox-cdn.com/thumbor/aN64mLZ19XTsGDpKUoi3_Aky9x8=/0x0:1584x829/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24647142/tom_holland_crowded_room.jpg",
+    "publishedAt": "2023-05-10T14:10:32Z",
+    "content": "Image: Apple TV Plus\r\n\n \n\n Killer do, dude\n \n Continue reading…"
+    },
+    -{
+    -"source": {
+    "id": "polygon",
+    "name": "Polygon"
+    },
+    "author": "Owen S. Good",
+    "title": "Lord of the Rings mobile game asks players to preserve Middle-earth’s history",
+    "description": "The Lord of the Rings: Heroes of Middle-earth launched May 10, 2023, for Apple iOS and Google Android devices. It’s a free-to-play collection RPG.",
+    "url": "https://www.polygon.com/23717489/lord-rings-heroes-middle-earth-release-date-iphone-android",
+    "urlToImage": "https://cdn.vox-cdn.com/thumbor/uubwGD_YXm1XbLbkEmfS0RQIrDQ=/0x38:1920x1043/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24645585/LOTR_1686_Gameplay_Screenshots_for_Press_Misc_Gameplay_6_FTUE1920x1080.png",
+    "publishedAt": "2023-05-10T17:00:00Z",
+    "content": "In The Lord of the Rings: Heroes of Middle-earth, which launched Wednesday for Android and iOS devices, players are tasked with keeping intact the timeline of J.R.R. Tolkiens most beloved works. That… [+6278 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "HuffPost"
+    },
+    "author": "Elyse Wanshel",
+    "title": "Tom Holland Shares That He’s Been Sober For Over A Year",
+    "description": "Holland said that his role in the upcoming miniseries “The Crowded Room” helped him with \"recognizing triggers\" and \"things that stress me out.\"",
+    "url": "https://www.huffpost.com/entry/tom-holland-sober-for-year_n_645bb847e4b09eef8303b68a",
+    "urlToImage": "https://img.huffingtonpost.com/asset/645bcf062500003300a82c75.jpeg?cache=Va2GmRH9Z9&ops=1200_630",
+    "publishedAt": "2023-05-10T18:45:52Z",
+    "content": "Tom Holland attends the \"Uncharted\" premiere in February.\r\nTom Hollands latest role helped him have a better relationship with his own mental health. \r\nThe Spiderman: No Way Home star told Entertainm… [+1826 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Xataka.com"
+    },
+    "author": "Pablo Martínez-Juarez",
+    "title": "Si te despiertas a menudo entre las dos y las tres de la mañana, no estás solo. Y la ciencia sabe por qué",
+    "description": "Despertarnos en medio de la noche puede ser una experiencia agradable cuando miramos el reloj y comprobamos que aún nos quedan varias horas de sueño. Sin embargo para muchas personas puede convertirse en una rutina frustrante que reduce su capacidad de lograr…",
+    "url": "https://www.xataka.com/medicina-y-salud/te-despiertas-a-menudo-dos-tres-manana-no-estas-solo-ciencia-sabe-que",
+    "urlToImage": "https://i.blogs.es/2035a6/cama-noche/840_560.jpeg",
+    "publishedAt": "2023-05-10T08:01:34Z",
+    "content": "Despertarnos en medio de la noche puede ser una experiencia agradable cuando miramos el reloj y comprobamos que aún nos quedan varias horas de sueño. Sin embargo para muchas personas puede convertirs… [+5525 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Hubspot.com"
+    },
+    "author": "Lauren Farrell",
+    "title": "How to Use vlookup in Google Sheets",
+    "description": "vlookup is a powerful tool that allows users to search for specific data in a large dataset. Whether you're a business owner or simply someone who works with data, mastering the vlookup function can save you time and help you make more informed decisions.",
+    "url": "https://blog.hubspot.com/marketing/vlookup-google-sheets#article",
+    "urlToImage": "https://blog.hubspot.com/hubfs/vlookup-google-sheets.png#keepProtocol",
+    "publishedAt": "2023-05-10T11:00:00Z",
+    "content": "vlookup is a powerful tool that allows users to search for specific data in a large dataset. Whether you're a business owner or simply someone who works with data, mastering the vlookup function can … [+9226 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Cool Hunting"
+    },
+    "author": "Josh Rubin",
+    "title": "Matthew Dear: Design Tangents Episode Five",
+    "description": "The musician, composer, DJ and fine artist on his creative process and making the music for our podcast We first stepped into the Michigan studio of musician, composer, DJ and fine artist Matthew Dear in 2007 to chronicle his sonic creations for a COOL HUNTIN…",
+    "url": "http://coolhunting.com/design/matthew-dear-design-tangents-episode-five/",
+    "urlToImage": "https://i0.wp.com/coolhunting.com/wp-content/uploads/2023/05/Podcast_CHDT_episode_4x3_CH-only_MD.png?fit=1200%2C900&ssl=1",
+    "publishedAt": "2023-05-10T02:55:31Z",
+    "content": "The musician, composer, DJ and fine artist on his creative process and making the music for our podcast\nWe first stepped into the Michigan studio of musician, composer, DJ and fine artist Matthew Dea… [+2135 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "The Atlantic"
+    },
+    "author": "John Hendrickson",
+    "title": "What Michael J. Fox Figured Out",
+    "description": "How do you maintain optimism as things keep getting worse?",
+    "url": "https://www.theatlantic.com/ideas/archive/2023/05/still-michael-j-fox-movie-review-parkinsons/674005/?utm_source=feed",
+    "urlToImage": null,
+    "publishedAt": "2023-05-10T15:35:00Z",
+    "content": "At first, it was just Michael J. Fox’s pinky that was fluttering. Years later, his whole upper body was rocking back and forth. Now, at age 61, Fox struggles to walk down the street without falling o… [+7418 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Github.com"
+    },
+    "author": "DNedic",
+    "title": "A collection of lock-free data structures written in standard C++11",
+    "description": "A collection of lock-free data structures written in standard C++11 - GitHub - DNedic/lockfree: A collection of lock-free data structures written in standard C++11",
+    "url": "https://github.com/DNedic/lockfree",
+    "urlToImage": "https://opengraph.githubassets.com/fee47f55545a21395530e5b052bbe12826b6a6f92cee732d1791d6e2a900cb1c/DNedic/lockfree",
+    "publishedAt": "2023-05-10T11:56:14Z",
+    "content": "lockfree is a collection of lock-free data structures written in standard C++11 and suitable for all platforms - from deeply embedded to HPC.\r\nWhat are lock-free data structures?\r\nLock-free data stru… [+3644 chars]"
+    },
+    -{
+    -"source": {
+    "id": "hacker-news",
+    "name": "Hacker News"
+    },
+    "author": null,
+    "title": "Launch HN: Clearspace (YC W23) – Cut back on screen time",
+    "description": "Comments",
+    "url": "https://news.ycombinator.com/item?id=35888644",
+    "urlToImage": null,
+    "publishedAt": "2023-05-10T15:19:16Z",
+    "content": "Hey HN, we're Royce and Oliver, the founders of Clearspace (https://www.getclearspace.com). We make an iPhone app that helps you reduce compulsive phone use. It regulates your social media experience… [+3945 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Racket.news"
+    },
+    "author": "Susan Schmidt, Andrew Lowenthal, Tom Wyatt, Techno Fog, Genève Campbell, Matt Orfalea, Matt Taibbi, The Hunt for Tom Clancy",
+    "title": "Report on the Censorship-Industrial Complex: The Top Organizations to Know",
+    "description": "The citizen's starter kit to understanding the new global information cartel",
+    "url": "https://www.racket.news/p/report-on-the-censorship-industrial-74b",
+    "urlToImage": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa19feb55-8004-49fd-9491-7c642286e90c_12500x8333.jpeg",
+    "publishedAt": "2023-05-10T20:13:58Z",
+    "content": "Introduction by Matt Taibbi\r\nOn January 17, 1961, outgoing President and former Supreme Allied Commander Dwight D. Eisenhower gave one of the most consequential speeches in American history. Eisenhow… [+111348 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "heise online"
+    },
+    "author": "Axel Kannenberg",
+    "title": "Girocard vor Bargeld: Kartenzahlungen dominieren an der Ladenkasse",
+    "description": "Die Coronapandemie brachte den Trend zu mehr Karten- und weniger Barzahlungen ins Rollen. Und laut einer Studie gibt es auch keinen Trend zurück zum Bargeld.",
+    "url": "https://www.heise.de/news/Girocard-vor-Bargeld-Kartenzahlungen-dominieren-an-der-Ladenkasse-8994137.html",
+    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/1/5/7/6/1/7/shutterstock_2245552555-314fb53f70301d16.jpg",
+    "publishedAt": "2023-05-10T14:08:00Z",
+    "content": "Die Girocard war 2022 das häufigste Zahlungsmittel an deutschen Ladenkassen, wie aus einer Studie des Handelsinstituts EHI hervorgeht. Darauf folgte Bargeld, das bis zur Corona-Pandemie noch beliebte… [+2284 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "heise online"
+    },
+    "author": "Ben Schwan",
+    "title": "BBEdit wird 30 und gibt Rabatt",
+    "description": "Vor drei Jahrzehnten erschien erstmals eine kommerzielle Version des populären Texteditors. Eigentlich ist die populäre Mac-App sogar noch älter.",
+    "url": "https://www.heise.de/news/BBEdit-wird-30-und-gibt-Rabatt-8991854.html",
+    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/1/5/6/4/4/6/bbedit_shirt-e15644bf19bb4fc1.png",
+    "publishedAt": "2023-05-10T08:38:00Z",
+    "content": "BBEdit feiert in diesen Tagen ein rundes Jubiläum: Der klassische Texteditor für macOS ist seit genau 30 Jahren kommerziell erhältlich. \"Als Bare Bones Software die erste kommerzielle Lizenz für BBEd… [+2315 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "heise online"
+    },
+    "author": "Martin Franz",
+    "title": "Kosten von Elektroautos: Die schräge Rechnung des ADAC​",
+    "description": "Kaum eine Datenbank gibt so umfangreich Auskunft über die realen Kosten eines Autos wie die des ADAC. Der Club interpretiert sie aktuell eigenwillig.​",
+    "url": "https://www.heise.de/meinung/Kommentar-zu-Kosten-von-Elektroautos-Die-schraege-Rechnung-des-ADAC-8994030.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/1/5/7/5/5/8/NFC12-a4748cf313e46510.jpg",
+    "publishedAt": "2023-05-10T13:24:00Z",
+    "content": "Inhaltsverzeichnis\r\nEs gibt Diskussionen, die sich vermutlich nicht (mehr) friedlich austragen lassen: konservativ oder sozialdemokratisch, Apple oder Windows, BVB oder FC Bayern Ihnen fallen bestimm… [+6832 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Chance Miller",
+    "title": "EU regulators still investigating Apple Pay antitrust concerns, now examining Bluetooth and QR code alternatives",
+    "description": "Apple is facing increasing antitrust pushback in the European Union over its tap-to-pay Apple Pay platform. A new report from Bloomberg details that European Union antitrust investigators are ramping up their probe into Apple Pay after soliciting more informa…",
+    "url": "https://9to5mac.com/2023/05/10/apple-pay-antitrust-bluetooth-qr-codes/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/11/South-Korea-Apple-Pay.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-05-10T18:16:42Z",
+    "content": "Apple is facing increasing antitrust pushback in the European Union over its tap-to-pay Apple Pay platform. A new report from Bloomberg details that European Union antitrust investigators are ramping… [+2320 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Michael Potuck",
+    "title": "Here’s how long Apple users are holding on to their iPhones",
+    "description": "Last week we saw a report from CIRP on Apple achieving an all-time high iPhone average selling price. Today, the firm released a study showing how long Apple users are keeping their iPhones before upgrading, here’s what the results show.\n more…\nThe post Here’…",
+    "url": "https://9to5mac.com/2023/05/10/how-long-people-keep-iphones/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/08/iPhone-11-Camera-vs-iPhone-XR-Camera.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-05-10T13:23:01Z",
+    "content": "Last week we saw a report from CIRP on Apple achieving an all-time high iPhone average selling price. Today, the firm released a study showing how long Apple users are keeping their iPhones before up… [+1351 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Chance Miller",
+    "title": "Apple losing key operations exec in charge of TV+, TV app, and sports",
+    "description": "Apple is losing another top executive in its Services business. Pete Distad, who leads the company’s Apple TV+ and sports businesses, is departing the company later this month. This comes following the departure of Peter Stern, Apple’s vice president of Servi…",
+    "url": "https://9to5mac.com/2023/05/10/apple-executive-tv-departure/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/06/major-league-soccer-apple-tv-app.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-05-10T17:52:32Z",
+    "content": "Apple is losing another top executive in its Services business. Pete Distad, who leads the company’s Apple TV+ and sports businesses, is departing the company later this month. This comes following t… [+2011 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Ben Lovejoy",
+    "title": "Airbnb Rooms feature; Apple inspiration; Jony Ive redefining the mission",
+    "description": "CEO Brian Chesky has said in a new interview that a number of the changes Airbnb has made – including Airbnb Rooms and a complete reorganization of the company’s structure – were inspired by Apple.\nHe added that the launch of Airbnb Rooms represents the compa…",
+    "url": "https://9to5mac.com/2023/05/10/airbnb-rooms/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/05/Airbnb-Rooms.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-05-10T11:45:25Z",
+    "content": "CEO Brian Chesky has said in a new interview that a number of the changes Airbnb has made including Airbnb Rooms and a complete reorganization of the company’s structure were inspired by Apple.\r\nHe a… [+3339 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Chance Miller",
+    "title": "Leaker claims Apple used ‘multi-step sting’ operation to identify and fire their source ahead of WWDC",
+    "description": "Over the last several months, a new “leaker” emerged on Twitter claiming to know a broad range of details about upcoming Apple software releases. The account shared what they claimed were details on new features coming to iOS 17, watchOS 10, and more.\nOn Wedn…",
+    "url": "https://9to5mac.com/2023/05/10/apple-leaker-sting-operation-source-fired/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/06/ios-16-release-date-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-05-10T16:24:28Z",
+    "content": "Over the last several months, a new “leaker” emerged on Twitter claiming to know a broad range of details about upcoming Apple software releases. The account shared what they claimed were details on … [+5168 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Ben Lovejoy",
+    "title": "Twitter hacker pleads guilty to hijacking accounts of Apple, Musk, Biden, and others",
+    "description": "One of the Twitter hackers who hijacked the official Apple account, as well as those belonging to around 130 high-profile figures, has now pleaded guilty.\nBritish citizen Joseph O’Connor has pleaded guilty to multiple counts of computer intrusion, extortion, …",
+    "url": "https://9to5mac.com/2023/05/10/twitter-hacker/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/05/Twitter-hacker-pleads-guilty.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-05-10T13:17:49Z",
+    "content": "One of the Twitter hackers who hijacked the official Apple account, as well as those belonging to around 130 high-profile figures, has now pleaded guilty.\r\nBritish citizen Joseph OConnor has pleaded … [+1982 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Michael Potuck",
+    "title": "Review: Kinsa Smart Thermometer delivers great UX, Apple Health at an affordable price",
+    "description": "Smart health devices can get expensive, which can make it normal to start questioning how much value they’re actually delivering. Recently I’ve been testing out the Kinsa QuickScan Smart Thermometer and I’ve been delighted by the great hardware and software b…",
+    "url": "https://9to5mac.com/2023/05/10/kinsa-quickscan-thermometer-review-apple-health/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/05/kinsa-quickscan-smart-thermometer-review.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-05-10T17:32:41Z",
+    "content": "Smart health devices can get expensive, which can make it normal to start questioning how much value they’re actually delivering. Recently I’ve been testing out the Kinsa QuickScan Smart Thermometer … [+4429 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Filipe Espósito",
+    "title": "Google continues spending keynote time to remind us iPhones don’t support RCS",
+    "description": "Google is holding the 2023 edition of its annual I/O conference today, and the company announced many new things for Android and Pixel products. During the keynote, the company again teased Apple for not providing support for the RCS messaging protocol on the…",
+    "url": "https://9to5mac.com/2023/05/10/google-apple-rcs-support-iphone/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/05/Google-RCS.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-05-10T19:32:51Z",
+    "content": "Google is holding the 2023 edition of its annual I/O conference today, and the company announced many new things for Android and Pixel products. During the keynote, the company again teased Apple for… [+2127 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Ben Lovejoy",
+    "title": "Nomad Titanium Apple Watch Band is back in stock after 7 months [U]",
+    "description": "Update: After being out of stock for seven months due to the company being unable to keep up with demand, Nomad says the bands are now available once more.\nThe Nomad Titanium Band got a refresh, with a much neater magnet-assisted snap closure mechanism, a mor…",
+    "url": "https://9to5mac.com/2023/05/10/nomad-titanium-band-review-2/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/05/Nomad-Titanium-Band.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-05-10T13:48:22Z",
+    "content": "Update: After being out of stock for seven months due to the company being unable to keep up with demand, Nomad says the bands are now available once more.\r\nThe Nomad Titanium Band got a refresh, wit… [+4138 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Michael Potuck",
+    "title": "Dell 32-inch Apple Pro Display XDR alt now available with Thunderbolt 4, 4K webcam",
+    "description": "Dell announced its new UltraSharp 32 6K Monitor back in January at CES, now the external display is available with a compelling feature set for a few thousand dollars less than Apple’s 32-inch Pro Display XDR. Read on for all the details.\n more…\nThe post Dell…",
+    "url": "https://9to5mac.com/2023/05/10/dell-32-inch-6k-monitor-now-available/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/01/dell-monitor.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-05-10T21:40:38Z",
+    "content": "Dell announced its new UltraSharp 32 6K Monitor back in January at CES, now the external display is available with a compelling feature set for a few thousand dollars less than Apple’s 32-inch Pro Di… [+2215 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Rikka Altland",
+    "title": "Deals: HomePod 2 sees first discount to $279, M2 MacBook Air $499 off, iPad Air 5, more",
+    "description": "We’re now halfway through the work week, and all of today’s best deals are up for grabs courtesy of 9to5Toys. Leading the pack, the very first discount has arrived on Apple’s just-refreshed HomePod 2 at $279. From there, you can run Final Cut Pro and Logic Pr…",
+    "url": "https://9to5mac.com/2023/05/10/deals-homepod-2-first-discount-m2-macbook-air/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/02/Apple-HomePod-2-up-230118.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-05-10T15:57:14Z",
+    "content": "We’re now halfway through the work week, and all of today’s best deals are up for grabs courtesy of 9to5Toys. Leading the pack, the very first discount has arrived on Apples just-refreshed HomePod 2 … [+5132 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Seth Kurkowski",
+    "title": "9to5Mac Daily: May 9, 2023 – Final Cut Pro and Logic Pro are coming to iPad",
+    "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Kolide: Kolide’s…",
+    "url": "https://9to5mac.com/2023/05/09/daily-may-9-2023/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-05-10T00:01:14Z",
+    "content": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apples Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overca… [+791 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Ben Lovejoy",
+    "title": "US iPhone market share up – in declining market – as more people switch from Android",
+    "description": "US iPhone market share increased in the first quarter of the year, despite the fact that the smartphone market as a whole suffered a major decline, according to new market intelligence data.\nIt indicates that US smartphone shipments fell sharply in the first …",
+    "url": "https://9to5mac.com/2023/05/10/us-iphone-market-share/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/05/US-iPhone-market-share.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-05-10T11:02:32Z",
+    "content": "US iPhone market share increased in the first quarter of the year, despite the fact that the smartphone market as a whole suffered a major decline, according to new market intelligence data.\r\nIt indi… [+2097 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Ben Lovejoy",
+    "title": "AI cannot be stopped, says Steve Wozniak; we must prepare for more convincing scams",
+    "description": "Apple cofounder Steve Wozniak (aka Woz) has said that the march of AI cannot be stopped – even though he has called for a pause in development – and that we must prepare ourselves for people abusing it to create harder-to-spot scams … \n more…\nThe post AI cann…",
+    "url": "https://9to5mac.com/2023/05/10/ai-cannot-be-stopped/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/05/AI-cannot-be-stopped.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-05-10T12:12:18Z",
+    "content": "Apple cofounder Steve Wozniak (aka Woz) has said that the march of AI cannot be stopped even though he has called for a pause in development and that we must prepare ourselves for people abusing it t… [+2254 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Michael Potuck",
+    "title": "Best apps for young kids to foster fun and creative learning",
+    "description": "Just like adults, it can be easy for kiddos to get sucked into passively watching videos on iPad or TV. But what about more engaging digital experiences that encourage creative and fun learning? Follow along for a look at some of the best apps for young kids.…",
+    "url": "https://9to5mac.com/2023/05/10/best-apps-for-young-kids-fun-learning/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/01/best-apps-for-kids.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-05-10T14:36:00Z",
+    "content": "Just like adults, it can be easy for kiddos to get sucked into passively watching videos on iPad or TV. But what about more engaging digital experiences that encourage creative and fun learning? Foll… [+6329 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Android Police"
+    },
+    "author": "Jesse Hollington",
+    "title": "AAWireless review: Android Auto untethered",
+    "description": "This affordable dongle will change the way you use Android Auto",
+    "url": "https://www.androidpolice.com/aawireless-review/",
+    "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/04/aawireless-hero.jpg",
+    "publishedAt": "2023-05-10T15:00:17Z",
+    "content": "There's little doubt that Android Auto is a really convenient way to use your smartphone on the road. Still, unfortunately, that convenience is hampered on many vehicles by the need to constantly plu… [+10134 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Food52.com"
+    },
+    "author": "Madison Trapkin",
+    "title": "10 Food & Wine Pairings That Will Transport You to France",
+    "description": "We've teamed up with La Vielle Ferme to curate a lineup of French-inspired food and wine pairings, featuring five of their sippable selections made in the Rhône Valley. From light, crispy Blanc to fruity Sparkling Rosé, their award-winning wines pair perfectl…",
+    "url": "https://food52.com/drinks/wine/27872-french-food-and-wine-pairings",
+    "urlToImage": "https://images.food52.com/I9Rxbjl5tA4Nz2ANKYoenkWPqZc=/fit-in/1200x1200/dccf9839-47bd-4c6c-8c2b-8e104bd82636--Screen_Shot_2023-03-30_at_5.30.06_PM.png",
+    "publishedAt": "2023-05-10T13:09:07Z",
+    "content": "We've teamed up with La Vielle Ferme to curate a lineup of French-inspired food and wine pairings, featuring five of their sippable selections made in the Rhône Valley. From light, crispy Blanc to fr… [+4710 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Forbes"
+    },
+    "author": "Jodie Cook, Contributor, \n Jodie Cook, Contributor\n https://www.forbes.com/sites/jodiecook/",
+    "title": "Adapt Or Die: 3 Things Businesses Must Do To Avoid Becoming Irrelevant In The AI Revolution",
+    "description": "In 2020, pivoting was necessary in order to survive. In 2023 it's no different. Use this AI revolution to become a creator and a leader, instead of just an observer and user.",
+    "url": "https://www.forbes.com/sites/jodiecook/2023/05/10/adapt-or-die-3-things-businesses-must-do-to-avoid-becoming-irrelevant-in-the-ai-revolution/",
+    "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/645b1755cf61fa38f12796dd/0x0.jpg?format=jpg&crop=3096,1741,x0,y60,safe&width=1200",
+    "publishedAt": "2023-05-10T07:15:39Z",
+    "content": "Adapt or die: 3 things businesses must do to avoid becoming irrelevant in the AI revolution\r\ngetty\r\nDescribing artificial intelligence as a disruptive technology is a colossal understatement. We are … [+5727 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Andrew Orr)",
+    "title": "Apple has updated Shazam to add integration with Apple Music Classical",
+    "description": "Apple has updated its music recognition app Shazam to support Apple Music Classical for subscribers to enjoy classical music.Shazam works with Apple Music ClassicalThe classical music version of Apple Music launched in March, stemming from its acquisition of …",
+    "url": "https://appleinsider.com/articles/23/05/10/apple-has-updated-shazam-to-add-integration-with-apple-music-classical",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/54356-109731-shazam-xl.jpg",
+    "publishedAt": "2023-05-10T14:54:30Z",
+    "content": "Shazam works with Apple Music Classical\r\nApple has updated its music recognition app Shazam to support Apple Music Classical for subscribers to enjoy classical music.\r\nThe classical music version of … [+1406 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Amber Neely)",
+    "title": "EU regulators ramp up probe into NFC tech at core of Apple Pay",
+    "description": "European Union officials continue to scrutinize Apple for its restrictions on the NFC antenna used for Apple Pay, a practice the European Commission dubbed anti-competitive.Apple PayThe European Commission, which oversees antitrust laws in the EU, has accused…",
+    "url": "https://appleinsider.com/articles/23/05/10/eu-regulators-ramp-up-probe-into-nfc-tech-at-core-of-apple-pay",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/52988-106041-Apple-Pay-xl.jpg",
+    "publishedAt": "2023-05-10T19:06:48Z",
+    "content": "Apple Pay\r\nEuropean Union officials continue to scrutinize Apple for its restrictions on the NFC antenna used for Apple Pay, a practice the European Commission dubbed anti-competitive.\r\nThe European … [+1356 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Wesley Hilliard)",
+    "title": "Every known Apple TV+ show cancelation so far",
+    "description": "Apple TV+ has rolled out over 160 titles since its launch in 2019, but some were unceremoniously canceled without a conclusion. Find out which shows ended without a series finale here.Apple TV+It can be difficult to choose what to watch in the streaming era, …",
+    "url": "https://appleinsider.com/articles/23/05/10/every-known-apple-tv-show-cancelation-so-far",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/54328-109712-Apple-TV+-xl.jpg",
+    "publishedAt": "2023-05-10T00:30:37Z",
+    "content": "Apple TV+\r\nApple TV+ has rolled out over 160 titles since its launch in 2019, but some were unceremoniously canceled without a conclusion. Find out which shows ended without a series finale here.\r\nIt… [+3380 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Amber Neely)",
+    "title": "Apple & Elon Musk Twitter hacker pleads guilty to cryptocurrency scam",
+    "description": "British hacker Joseph James O'Connor pleaded guilty to hacking well-known Twitter accounts, including those of Apple, Kanye West, Elon Musk, and Joe Biden and faces two decades in prison.In July 2020, O'Connor hacked several high-profile accounts on Twitter. …",
+    "url": "https://appleinsider.com/articles/23/05/10/apple-elon-musk-twitter-hacker-pleads-guilty-to-cryptocurrency-scam",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/40327-77636-36493-67969-34727-62901-malware-header-xl-xl-l.jpg",
+    "publishedAt": "2023-05-10T14:03:20Z",
+    "content": "British hacker Joseph James O'Connor pleaded guilty to hacking well-known Twitter accounts, including those of Apple, Kanye West, Elon Musk, and Joe Biden and faces two decades in prison.\r\nIn July 20… [+863 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Amber Neely)",
+    "title": "Apple loses third executive in two months in ongoing wave of company departures",
+    "description": "Pete Distad, Apple's senior director of Video, Sports, and Apple TV+, is set to depart the company later in May.Credit: Laurenz Heymann/UnsplashApple is losing yet another top executive following the departure of two executives in the last month. Read more...",
+    "url": "https://appleinsider.com/articles/23/05/10/apple-loses-third-executive-in-two-months-in-ongoing-wave-of-company-departures",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/45619-88794-Apple-Logo-Header-xl.jpg",
+    "publishedAt": "2023-05-10T18:26:46Z",
+    "content": "Credit: Laurenz Heymann/Unsplash\r\nPete Distad, Apple's senior director of Video, Sports, and Apple TV+, is set to depart the company later in May.\r\nApple is losing yet another top executive following… [+914 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Charles Martin)",
+    "title": "Stop us if you've heard this before: There's a new Apple Silicon killer in town",
+    "description": "AMD announced a new chip for thin-and-light notebooks that it specifically claims beats Apple's year-old M2. Did the company cherry-pick results and hide the compromises, or is this a genuine triumph?A couple of months ago, Intel came out with a \"notebook\" pr…",
+    "url": "https://appleinsider.com/articles/23/05/10/stop-us-if-youve-head-this-before-theres-a-new-apple-silicon-killer-in-town",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/54313-109576-Ryzen-chip-logo-xl.jpg",
+    "publishedAt": "2023-05-10T10:48:29Z",
+    "content": "AMD announced a new chip for thin-and-light notebooks that it specifically claims beats Apple's year-old M2. Did the company cherry-pick results and hide the compromises, or is this a genuine triumph… [+8144 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Andrew Orr)",
+    "title": "Apple suppliers BOE & Samsung dueling in China court over stolen patents",
+    "description": "Apple supplier BOE Technology Group has sued rival Samsung Electronics and alleged it stole its technologies for OLED iPhone displays.BOE files patent-infringement lawsuits against SamsungBOE, headquartered in Beijing, along with two of its subsidiary compani…",
+    "url": "https://appleinsider.com/articles/23/05/10/apple-suppliers-boe-samsung-dueling-in-court-over-stolen-patents",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/54355-109730-BOE-xl.jpg",
+    "publishedAt": "2023-05-10T14:21:48Z",
+    "content": "BOE files patent-infringement lawsuits against Samsung\r\nApple supplier BOE Technology Group has sued rival Samsung Electronics and alleged it stole its technologies for OLED iPhone displays.\r\nBOE, he… [+2357 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Jess Pingrey)",
+    "title": "Deals: MacBook Air from $649, up to $1,600 off MacBook Pro, $189 14TB Seagate external HDD",
+    "description": "Today's top deals include 40% off a Logitech slim wireless keyboard & mouse combo, up to 23% off Kindle Scribe Essentials bundles, 33% off an Optoma 4K HD projector, 25% off an LG PL7 XBOOM Go wireless Bluetooth speaker, and more.Save $200 on an M2 Max MacBoo…",
+    "url": "https://appleinsider.com/articles/23/05/10/deals-macbook-air-from-649-up-to-1600-off-macbook-pro-189-14tb-seagate-external-hdd",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/54349-109725-daily-deals-May-10-xl.jpg",
+    "publishedAt": "2023-05-10T13:54:46Z",
+    "content": "Save $200 on an M2 Max MacBook Pro\r\nToday's top deals include 40% off a Logitech slim wireless keyboard &amp; mouse combo, up to 23% off Kindle Scribe Essentials bundles, 33% off an Optoma 4K HD proj… [+4277 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Christine McKee)",
+    "title": "Get Apple's MacBook Pro 14-inch (M1 Max, 64GB RAM, 2TB SSD) for $2,499 today only",
+    "description": "B&H's latest Deal Zone offers shoppers incredible savings on a loaded MacBook Pro with Apple's M1 Max chip, 64GB of memory and a 2TB SSD. Save $1,600 instantly on the powerful notebook with free expedited shipping.Get a loaded MacBook Pro for $2,499.For 24 ho…",
+    "url": "https://appleinsider.com/articles/23/05/10/get-apples-macbook-pro-14-inch-m1-max-64gb-ram-2tb-ssd-for-2499-today-only",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/54351-109714-macbook-pro-14-inch-1600-off-xl.jpg",
+    "publishedAt": "2023-05-10T04:09:31Z",
+    "content": "Get a loaded MacBook Pro for $2,499.\r\nB&amp;H's latest Deal Zone offers shoppers incredible savings on a loaded MacBook Pro with Apple's M1 Max chip, 64GB of memory and a 2TB SSD. Save $1,600 instant… [+1314 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Wesley Hilliard)",
+    "title": "Google doubles down on its 'AI' future during I/O, hitting the buzzword over 100 times",
+    "description": "It took only 17 seconds for Google to say \"AI\" in its Google I/O keynote conference for the first time on Wednesday, and we stopped counting at over 100. Here are all the AI tools that it announced at the event, spanning nearly every product category it has.G…",
+    "url": "https://appleinsider.com/articles/23/05/10/google-doubles-down-on-its-ai-future-during-io-hitting-the-buzzword-over-100-times",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/54363-109752-Photos-xl.jpg",
+    "publishedAt": "2023-05-10T21:47:29Z",
+    "content": "Get the memories you want with Google 'AI' photo editing\r\nIt took only 17 seconds for Google to say \"AI\" in its Google I/O keynote conference for the first time on Wednesday, and we stopped counting … [+5147 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Elespanol.com"
+    },
+    "author": "Adrián Raya",
+    "title": "Cómo Android te va a ayudar a encontrar tus auriculares y cualquier cosa que se te pierda",
+    "description": "Google ha anunciado oficialmente la nueva función para encontrar dispositivos (Find My Device), similar a la de Apple, pero compatible con rastreadores Bluetooth actuales y más segura.",
+    "url": "https://www.elespanol.com/elandroidelibre/noticias-y-novedades/actualizaciones-android/20230510/android-ayudar-encontrar-auriculares-cualquier-cosa-pierda/762674168_0.html",
+    "urlToImage": "https://s1.eestatic.com/2023/05/10/elandroidelibre/762684714_233060023_1200x630.jpg",
+    "publishedAt": "2023-05-10T19:11:52Z",
+    "content": "La experiencia de Android ya tiene poco que envidiar a la de un iPhone, pero aún quedaba un aspecto crucial en el que la compañía de la manzana tenía ventaja: la función para encontrar nuestro dispos… [+2715 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Elespanol.com"
+    },
+    "author": "Alvarez del Vayo",
+    "title": "Pixel 7a, análisis: el rey de la gama media apunta más alto que nunca",
+    "description": "Hemos estado casi dos semanas usando el nuevo Pixel 7a, un terminal perfecto para los que quieren un gran móvil a un precio ajustado.",
+    "url": "https://www.elespanol.com/elandroidelibre/moviles-android/analisis/20230510/pixel-analisis-gama-media-apunta-alto-nunca/759424086_0.html",
+    "urlToImage": "https://s1.eestatic.com/2023/05/10/elandroidelibre/moviles-android/analisis/762684613_233059435_1200x630.jpg",
+    "publishedAt": "2023-05-10T19:02:06Z",
+    "content": "Por fin ha llegado uno de los móviles más esperados del año, el Pixel 7a, la apuesta de la gama media de Google para 2023. Y era un terminal especialmente esperado porque su antecesor, el Pixel 6a, f… [+10195 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Gizmodo.jp"
+    },
+    "author": "小暮ひさのり",
+    "title": "Apple Watch Series 9、大幅スペックアップを果たしそう！",
+    "description": "Apple Watch Series 9にはiPhone 13で採用されたA15ベースのチップ（SoC）を搭載するという新情報（ウワサだけどね）が着弾し",
+    "url": "https://www.gizmodo.jp/2023/05/apple-watch-series-9-soc.html",
+    "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2023/05/09/2023-05-09ApkWk00.jpg?w=1280&h=630&f=jpg",
+    "publishedAt": "2023-05-10T04:00:00Z",
+    "content": "Apple Watch Series 9\r\nApple Watch Series 9iPhone 13A15SoC\r\nApple WatchApple Watch Series 8S8Apple Watch Series 6S6\r\niPhone 13SoC Watch\r\nApple Watch \r\nwatchOS 10\r\nSource: MacRumors"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Gizmodo.jp"
+    },
+    "author": "小暮ひさのり",
+    "title": "iOS 17のロック画面、ナビ中でも通知やボタンが見やすくなる？",
+    "description": "iOS 17ではナビゲーション画面に加えて時計表示やアプリの通知、カメラ、懐中電灯といったボタンが、画面の下部に残る。とリーカーは主張しています。",
+    "url": "https://www.gizmodo.jp/2023/05/ios-17-lock-screen.html",
+    "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2023/05/09/2023-05-09mak000.jpg?w=1280&h=630&f=jpg",
+    "publishedAt": "2023-05-10T06:00:00Z",
+    "content": "Love it or dont, Apple doesnt care - this is the new Maps Live Activity for Lock Screen (all iPhones).\r\n- Seamless transition when unlocking.\r\n- View notifications over the map by swiping up as usual… [+133 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "CNET"
+    },
+    "author": "Zachary McAuliffe",
+    "title": "iOS 16.5 Is Almost Here. You Could Get These New iPhone Features Soon - CNET",
+    "description": "The next iOS update will likely be released next week.",
+    "url": "https://www.cnet.com/tech/services-and-software/ios-16-5-is-almost-here-you-could-get-these-new-iphone-features-soon/",
+    "urlToImage": "https://www.cnet.com/a/img/resize/5d9991d8e4a2a56ec44d2fbdf2eead278cbeef09/hub/2023/04/14/81832586-f2a2-4fce-810d-c004e3de23bd/gettyimages-1235707352.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "publishedAt": "2023-05-10T17:00:14Z",
+    "content": "Apple opened up the iOS 16.5 release candidate to developers and beta testers Tuesday, and a news release points to the iPhone software update becoming available to the public next week. The beta ver… [+3194 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Yanko Design"
+    },
+    "author": "Gaurav Sood",
+    "title": "iPhone 15 Pro Max sample appears online, looks identical yet so different from the predecessor",
+    "description": "iPhone 15 Pro Max sample appears online, looks identical yet so different from the predecessorUpgrade cycle of smartphones is not as frequent amid consumers as it was a couple of years back. Perhaps because the improvements are generally incremental...",
+    "url": "https://www.yankodesign.com/2023/05/10/iphone-15-pro-max-sample-appears-online-looks-identical-yet-so-different-from-the-predecessor/",
+    "urlToImage": "https://www.yankodesign.com/images/design_news/2023/05/auto-draft/Apple-iPhone-15-Ultra-Mock-up-3.jpg",
+    "publishedAt": "2023-05-10T11:40:37Z",
+    "content": "Upgrade cycle of smartphones is not as frequent amid consumers as it was a couple of years back. Perhaps because the improvements are generally incremental than outright functional. But if you love t… [+2219 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Windows Central"
+    },
+    "author": "sendicott47@outlook.com (Sean Endicott)",
+    "title": "Dell's UltraSharp 6K Monitor stands toe-to-toe against Apple's Pro Display HDR, and it's $1,800 cheaper",
+    "description": "Dell just announced a pair of monitors featuring IPS Black displays. The UltraSharp 6K monitor is aimed at professionals and stacks up well against the Apple Pro Display XDR in several categories.",
+    "url": "https://www.windowscentral.com/accessories/monitors/dells-ultrasharp-6k-monitor-stands-toe-to-toe-against-apples-pro-display-hdr-and-its-dollar1800-cheaper",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/Cw9c2yLdg4vEzimwRTDiVL-1200-80.jpg",
+    "publishedAt": "2023-05-10T12:02:38Z",
+    "content": "<ul><li>Dell just announced a pair of monitors that feature IPS Black displays</li><li>The Dell UltraSharp 32 6K Monitor has a 6K resolution, VESA DisplayHDR 600 screen, and a built-in 4K webcam.</li… [+2657 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Windows Central"
+    },
+    "author": "sendicott47@outlook.com (Sean Endicott)",
+    "title": "Dell's discounted UltraSharp 32 monitor is a budget-friendly 4K beast for under $1,000",
+    "description": "Dell just announced a pair of UltraSharp monitors, meaning you can get last year's models at a big discount.",
+    "url": "https://www.windowscentral.com/accessories/monitors/dells-discounted-ultrasharp-32-monitor-is-a-budget-friendly-4k-beast-for-under-dollar1000",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/Yy4LtGuxnNgNZRtp3AkFjT-1200-80.jpg",
+    "publishedAt": "2023-05-10T13:32:15Z",
+    "content": "Dell just announced the UltraSharp 32 6K monitor. It's the first-ever IPS Black monitor with a 6K resolution, according to Dell. It also has a starting price of $3,200. While that price tag may be re… [+1346 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Journal du geek"
+    },
+    "author": "Tristan",
+    "title": "Révolution sur l’iPad, Final Cut Pro et Logic Pro arrivent",
+    "description": "Apple vient d'annoncer à la surprise générale l'arrivée de Final Cut Pro et Logic Pro sur les iPad. \nRévolution sur l’iPad, Final Cut Pro et Logic Pro arrivent",
+    "url": "https://www.journaldugeek.com/?p=50410807",
+    "urlToImage": "https://www.journaldugeek.com/content/uploads/2022/10/apple-ipad-pro-lifestyle.jpg",
+    "publishedAt": "2023-05-10T09:00:02Z",
+    "content": "Apple vient d'annoncer à la surprise générale l'arrivée de Final Cut Pro et Logic Pro sur les iPad.Apple vient d’annoncer dans un communiqué de presse que les applications Final Cut Pro et Logic Pro … [+2289 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Journal du geek"
+    },
+    "author": "Julie Hay",
+    "title": "Après des mois loin des radars, Tom Holland revient pour The Crowded Room",
+    "description": "Tom Holland est à l'affiche de The Crowded Room, une série inspirée de l'histoire de l'homme aux 24 personnalités. \nAprès des mois loin des radars, Tom Holland revient pour The Crowded Room",
+    "url": "https://www.journaldugeek.com/?p=50410950",
+    "urlToImage": "https://www.journaldugeek.com/content/uploads/2023/05/the-crowded-room-tom-holland.jpg",
+    "publishedAt": "2023-05-10T16:30:25Z",
+    "content": "Tom Holland est à l'affiche de The Crowded Room, une série inspirée de l'histoire de l'homme aux 24 personnalités.Le catalogue d’Apple TV+ devient de plus en plus intéressant. La plateforme du géant … [+2916 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Journal du geek"
+    },
+    "author": "Thomas Estimbre",
+    "title": "Pourquoi l’avenir du smartphone pliant passe par le Google Pixel Fold",
+    "description": "Tout juste officialisé par Google, le Pixel Fold rejoint un segment des smartphones pliants encore balbutiant. Son arrivée pourrait tout changer et on vous explique pourquoi.\nPourquoi l’avenir du smartphone pliant passe par le Google Pixel Fold",
+    "url": "https://www.journaldugeek.com/2023/05/10/pourquoi-lavenir-du-smartphone-pliant-passe-par-le-google-pixel-fold/",
+    "urlToImage": "https://www.journaldugeek.com/content/uploads/2023/05/google-pixel-fold-officiel.jpg",
+    "publishedAt": "2023-05-10T19:56:22Z",
+    "content": "Tout juste officialisé par Google, le Pixel Fold rejoint un segment des smartphones pliants encore balbutiant. Son arrivée pourrait tout changer et on vous explique pourquoi.Après des années de rumeu… [+5489 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Journal du geek"
+    },
+    "author": "Journal du Geek",
+    "title": "Streaming AC Milan – Inter : sur quelle chaîne voir la demi-finale ?",
+    "description": "AC Milan - Inter Milan, c'est la deuxième demi-finale de Ligue des Champions à suivre ce mercredi 10 mai à 21h00. Si vous ne savez pas quelle chaîne TV regarder pour suivre le streaming Milan Inter, on vous donne ici toutes les options qui s'offre à vous pour…",
+    "url": "https://www.journaldugeek.com/2023/05/10/streaming-ac-milan-inter-quelle-chaine-tv-voir-demi-finale-ligue-des-champions/",
+    "urlToImage": "https://www.journaldugeek.com/content/uploads/2023/05/milan-ac-inter-milan.jpg",
+    "publishedAt": "2023-05-10T18:05:00Z",
+    "content": "AC Milan - Inter Milan, c'est la deuxième demi-finale de Ligue des Champions à suivre ce mercredi 10 mai à 21h00. Si vous ne savez pas quelle chaîne TV regarder pour suivre le streaming Milan Inter, … [+6023 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Journal du geek"
+    },
+    "author": "Anh Phan",
+    "title": "Test Google Pixel 7a, quand simplicité rime avec efficacité",
+    "description": "Cette année, on n'attendra pas ! Fraîchement officialisé lors de la Google I/O 2023, on a passé plus d'une semaine avec le nouveau smartphone de Google, voici notre test du Google Pixel 7a.\nTest Google Pixel 7a, quand simplicité rime avec efficacité",
+    "url": "https://www.journaldugeek.com/?post_type=test&p=50410491",
+    "urlToImage": "https://www.journaldugeek.com/content/uploads/2023/05/google-pixel-7a-live-02.jpg",
+    "publishedAt": "2023-05-10T18:47:27Z",
+    "content": "Cette année, on n'attendra pas ! Fraîchement officialisé lors de la Google I/O 2023, on a passé plus d'une semaine avec le nouveau smartphone de Google, voici notre test du Google Pixel 7a.Après tout… [+12497 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Applesfera.com"
+    },
+    "author": "Fran Bouzas",
+    "title": "Llevamos toda la vida soñándolo y Apple lo hará realidad muy pronto: las Reality Pro serán compatibles con estas apps",
+    "description": "Ya no queda nada para que Apple celebre la WWDC 2023. Menos de un mes, de hecho. Es el mayor evento de software del año, y de vez en cuando nos da alguna que otra sorpresa en forma de producto. Este año tiene toda la pinta de que serán las Reality Pro las pro…",
+    "url": "https://www.applesfera.com/rumores/llevamos-toda-vida-sonandolo-apple-hara-realidad-muy-pronto-reality-pro-seran-compatibles-estas-apps",
+    "urlToImage": "https://i.blogs.es/1edcf4/diseno-sin-titulo-63/840_560.jpeg",
+    "publishedAt": "2023-05-10T12:01:34Z",
+    "content": "Ya no queda nada para que Apple celebre la WWDC 2023. Menos de un mes, de hecho. Es el mayor evento de software del año, y de vez en cuando nos da alguna que otra sorpresa en forma de producto. Este … [+1455 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Applesfera.com"
+    },
+    "author": "Fran Bouzas",
+    "title": "La WWDC23 va a ser algo histórico: hasta el director de eventos de Apple lo filtra en Instagram",
+    "description": "Ya queda menos de un mes para uno de los eventos más esperados y con más hype de toda la historia de Apple: la WWDC 2023. Los de Cupertino deberían presentar todos sus principales sistemas operativos: iOS 17, iPadOS 17, macOS 14, watchOS 10, etc. Eso es lo es…",
+    "url": "https://www.applesfera.com/rumores/wwdc23-va-a-ser-algo-historico-director-eventos-apple-filtra-instagram",
+    "urlToImage": "https://i.blogs.es/b10580/captura-de-pantalla-2023-05-10-a-las-9.57.37/840_560.png",
+    "publishedAt": "2023-05-10T08:08:47Z",
+    "content": "Ya queda menos de un mes para uno de los eventos más esperados y con más hype de toda la historia de Apple: la WWDC 2023. Los de Cupertino deberían presentar todos sus principales sistemas operativos… [+2208 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Applesfera.com"
+    },
+    "author": "Fran Bouzas",
+    "title": "Nuevos Beats Studio Pro y Beats Studio Buds: se filtran todas las características de estos brutales auriculares de Apple",
+    "description": "Desde que Apple compró Beats allá por el año 2014 por la impresionante cifra de 3.200 millones de dólares, los de Cupertino han lanzado unos cuantos productos de la marca. Los Beats Solo 3, los Beats Studio 3, los Beats Solo Pro, los BeatsX, etc. Los han mejo…",
+    "url": "https://www.applesfera.com/nuevo/beats-studio-pro-beats-studio-buds-informacion",
+    "urlToImage": "https://i.blogs.es/154c74/diseno-sin-titulo-59/840_560.jpeg",
+    "publishedAt": "2023-05-10T09:31:00Z",
+    "content": "Desde que Apple compró Beats allá por el año 2014 por la impresionante cifra de 3.200 millones de dólares, los de Cupertino han lanzado unos cuantos productos de la marca. Los Beats Solo 3, los Beats… [+3035 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Applesfera.com"
+    },
+    "author": "Miguel López",
+    "title": "Fuga de talento en el peor momento: ex-Apple ficha por GM para diseñar el rival del CarPlay",
+    "description": "Detrás del desarrollo de un producto hay problemas, lo sabemos, pero no sólo reservados al diseño o a que su software funcione. También los hay contratando a los expertos más adecuados para crear ese producto y, sobre todo, manteniéndolos en plantilla para qu…",
+    "url": "https://www.applesfera.com/apple-1/fuga-talento-peor-momento-ex-apple-ficha-gm-para-disenar-rival-carplay",
+    "urlToImage": "https://i.blogs.es/b4bd52/michael-abbott/840_560.jpeg",
+    "publishedAt": "2023-05-10T14:01:35Z",
+    "content": "Detrás del desarrollo de un producto hay problemas, lo sabemos, pero no sólo reservados al diseño o a que su software funcione. También los hay contratando a los expertos más adecuados para crear ese… [+1669 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Applesfera.com"
+    },
+    "author": "Fran Bouzas",
+    "title": "Ya sabemos cuándo llega oficialmente iOS 16.5 a tu iPhone y lo hace con estas novedades",
+    "description": "Desde que Apple lanzó al público iOS 16 en septiembre del año pasado, ha ido habiendo muchos cambios a lo largo de estos meses. Mejoras visuales, eficiencia de batería, estabilidad, solución de bugs, etc. Es algo que los de Cupertino se toman especialmente en…",
+    "url": "https://www.applesfera.com/ios/sabemos-cuando-llegara-ios-16-5-a-tu-iphone-llega-estas-novedades",
+    "urlToImage": "https://i.blogs.es/4b68ae/diseno-sin-titulo-62/840_560.jpeg",
+    "publishedAt": "2023-05-10T10:34:37Z",
+    "content": "Desde que Apple lanzó al público iOS 16 en septiembre del año pasado, ha ido habiendo muchos cambios a lo largo de estos meses. Mejoras visuales, eficiencia de batería, estabilidad, solución de bugs,… [+1821 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Applesfera.com"
+    },
+    "author": "Jesús Quesada",
+    "title": "En MediaMarkt están rebajados estos cinco aparatos de aire acondicionado con WiFi que se pueden controlar desde el iPhone",
+    "description": "El calor ya se nota, y unas de las mejores formas de combatirlo es con el aire acondicionado. Si no quieres que te pille el toro y volver a pasar el verano sin él, te proponemos cinco aparatos de aire acondicionado con WiFi de oferta en MediaMarkt que se pued…",
+    "url": "https://www.applesfera.com/seleccion/mediamarkt-estan-rebajados-estos-cinco-aparatos-aire-acondicionado-wifi-que-se-pueden-controlar-iphone",
+    "urlToImage": "https://i.blogs.es/f69af1/aires-acondicionados-mediamarkt/840_560.jpeg",
+    "publishedAt": "2023-05-10T15:15:34Z",
+    "content": "El calor ya se nota, y unas de las mejores formas de combatirlo es con el aire acondicionado. Si no quieres que te pille el toro y volver a pasar el verano sin él, te proponemos cinco aparatos de air… [+3572 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "MakeUseOf"
+    },
+    "author": "Jowi Morales",
+    "title": "8 Reasons You Don't Need an Apple Pencil for Your iPad",
+    "description": "The Apple Pencil is undoubtedly the best stylus for the iPad, but it's probably not for you, especially if you're not a digital artist.",
+    "url": "https://www.makeuseof.com/reasons-you-dont-need-apple-pencil/",
+    "urlToImage": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/Apple-Pencil-1-and-2.jpg",
+    "publishedAt": "2023-05-10T10:31:16Z",
+    "content": "Apple markets the Apple Pencil as a need for artists, creatives, and note-takers. And rightly so, as the Apple Pencil unlocks abilities you cannot achieve with your finger alone.\r\nAnd while the Apple… [+6176 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "MakeUseOf"
+    },
+    "author": "Paul Doty",
+    "title": "6 Ways to Use Your MacBook on a Flight",
+    "description": "Long-haul flights can be boring, but you have options to keep yourself engaged if you're traveling with your MacBook.",
+    "url": "https://www.makeuseof.com/ways-to-use-macbook-on-a-flight/",
+    "urlToImage": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/macbook-in-a-plane.jpg",
+    "publishedAt": "2023-05-10T10:45:16Z",
+    "content": "Traveling can be a stressful experience, especially when it comes to long flights. However, with a MacBook on your lap, a flight can become a productive and enjoyable experience.\r\nYour MacBook can be… [+3554 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "MakeUseOf"
+    },
+    "author": "Danny Maiorca",
+    "title": "8 Tools in Notion That You Might Not Have Heard About",
+    "description": "Are you a Notion user looking to streamline your productivity? Check out these tools in Notion that you might not have discovered yet.",
+    "url": "https://www.makeuseof.com/tools-in-notion-not-heard-about/",
+    "urlToImage": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/notion-on-a-smartphone.jpg",
+    "publishedAt": "2023-05-10T13:45:16Z",
+    "content": "If you’ve used Notion for at least a few months, you’ve probably heard of pages, tables, and sub-pages. You might even use many of these yourself. However, even if you’re an experienced user, you’re … [+6280 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "MakeUseOf"
+    },
+    "author": "Jose Luansing Jr.",
+    "title": "HuggingChat vs. Bing Chat: Which Is the Better ChatGPT Alternative?",
+    "description": "Open-source HuggingChat and Microsoft's Bing Chat are good alternatives to ChatGPT, but is either actually better?",
+    "url": "https://www.makeuseof.com/huggingchat-vs-bing-chat-better-than-chatgpt/",
+    "urlToImage": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-huggingchat-and-chatgpt-logos.jpg",
+    "publishedAt": "2023-05-10T19:45:17Z",
+    "content": "AI labs and tech companies have been playing catch-up since OpenAI released ChatGPT. Its massive success set off the AI race.\r\nTwo of the most talked about alternatives to ChatGPT are HuggingChat and… [+7558 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Presse-citron"
+    },
+    "author": "Romain Vitt",
+    "title": "La Pixel Tab est officielle : prix, date de sortie, fiche technique, tout savoir",
+    "description": "Google a dévoilé la Pixel Tab lors de la Google I/0 2023. Voici tout ce qu'il faut savoir de la première tablette made by Google.",
+    "url": "https://www.presse-citron.net/la-pixel-tab-est-officielle-prix-date-de-sortie-fiche-technique-tout-savoir/",
+    "urlToImage": "https://www.presse-citron.net/app/uploads/2023/05/pixel-tablet-fiche-technique.jpg",
+    "publishedAt": "2023-05-10T18:51:18Z",
+    "content": "1 – La Pixel Tab en bref\r\nAvant de rentrer dans le détail de sa fiche technique, rappelons rapidement quelle est la proposition de valeur de la Pixel Tab de Google. Il s’agit d’un bon concurrent de l… [+6998 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Xataka Android"
+    },
+    "author": "Pepu Ricca",
+    "title": "Todo lo nuevo de Android 14 en el Google I/O 2023: así será la próxima versión que lleva la personalización al siguiente nivel",
+    "description": "El Google I/O es el escenario principal donde estamos viendo las novedades que Google nos tenía preparadas. Entre estas, destacan los nuevos dispositivos de la familia Pixel como el plegable Pixel Fold, el económico Pixel 7a, o la Pixel Tablet que por fin se …",
+    "url": "https://www.xatakandroid.com/sistema-operativo/todo-nuevo-android-14-google-i-2023-asi-sera-proxima-version-que-lleva-personalizacion-al-siguiente-nivel",
+    "urlToImage": "https://i.blogs.es/8ce5ba/android-14-google-io-2023/840_560.jpeg",
+    "publishedAt": "2023-05-10T19:11:00Z",
+    "content": "El Google I/O es el escenario principal donde estamos viendo las novedades que Google nos tenía preparadas. Entre estas, destacan los nuevos dispositivos de la familia Pixel como el plegable Pixel Fo… [+5226 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Xataka Android"
+    },
+    "author": "Pepu Ricca",
+    "title": "El Google I/O tiene un alocado juego que combina la IA con las cartas de combate: así puedes jugarlo",
+    "description": "Por fin ha llegado un día señalado por todos los entusiastas de la tecnología. Faltan unas horas para uno de los eventos más importantes del año, hablamos del Google I/O 2023, del que esperamos muchas novedades.\n<!-- BREAK 1 -->\nPara ir abriendo boca, la empr…",
+    "url": "https://www.xatakandroid.com/juegos-android/google-i-tiene-alocado-juego-que-combina-ia-cartas-combate-asi-puedes-jugarlo",
+    "urlToImage": "https://i.blogs.es/bacad0/analisis-xiaomi-redmi-watch-3-3/840_560.jpeg",
+    "publishedAt": "2023-05-10T12:45:34Z",
+    "content": "Por fin ha llegado un día señalado por todos los entusiastas de la tecnología. Faltan unas horas para uno de los eventos más importantes del año, hablamos del Google I/O 2023, del que esperamos mucha… [+4527 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "HYPEBEAST"
+    },
+    "author": "info@hypebeast.com (Hypebeast)",
+    "title": "Justin Reed Unveils 100lb Chrome Hearts Punching Bag",
+    "description": "LA-based curator Justin Reed is known for acquiring some of the world's rarest designer items. Over the years, he's shown a particular interest in Chrome Hearts, showcasing a Rogue Weight Bench in January and more recently, listing a Stamped Wooden Moving Cra…",
+    "url": "https://hypebeast.com/2023/5/justin-reed-100-lb-chrome-hearts-punching-bag-store-info",
+    "urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2023%2F05%2Fjustin-reed-100-lb-chrome-hearts-punching-bag-store-info-tw.jpg?w=960&cbr=1&q=90&fit=max",
+    "publishedAt": "2023-05-10T07:03:17Z",
+    "content": "LA-based curator Justin Reed is known for acquiring some of the world’s rarest designer items. Over the years, he’s shown a particular interest in Chrome Hearts, showcasing a Rogue Weight Bench in Ja… [+897 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "HYPEBEAST"
+    },
+    "author": "info@hypebeast.com (Hypebeast)",
+    "title": "AMBUSH Drops Collaborative Liquid Metal Case for the New Ledger Stax",
+    "description": "Genre-defying brand AMBUSH has come together with Ledger for a cutting-edge piece of accessory that bridges fashion and cryptocurrency and blockchain hardware applications. Designed by Yoon Ahn, one-half of AMBUSH, the two brands have come together to unveil …",
+    "url": "https://hypebeast.com/2023/5/ambush-ledger-stax-liquid-metal-case-collaboration-yoon-verbal-release-info",
+    "urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2023%2F05%2Fambush-ledger-stax-liquid-metal-case-collaboration-yoon-verbal-release-info-tw.jpg?w=960&cbr=1&q=90&fit=max",
+    "publishedAt": "2023-05-10T08:38:02Z",
+    "content": "Genre-defying brand AMBUSH has come together with Ledger for a cutting-edge piece of accessory that bridges fashion and cryptocurrency and blockchain hardware applications. Designed by Yoon Ahn, one-… [+1505 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Android Authority"
+    },
+    "author": "Hadlee Simons",
+    "title": "RCS is used by 800 million users, just not any Apple users",
+    "description": "Google has announced that over 800 million people now use RCS monthly. Unfortunately, we can't count iPhone users in this statistic.",
+    "url": "https://www.androidauthority.com/rcs-800-million-users-3323216/",
+    "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2023/05/Google-IO-2023-RCS-monthly-active-users.jpg",
+    "publishedAt": "2023-05-10T18:43:03Z",
+    "content": "<ul><li>Google says the RCS messaging standard now has over 800 million users.</li><li>Apple is still the biggest holdout here, falling back to SMS in iMessage instead.</li></ul>\r\nRCS is the successo… [+1361 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Android Authority"
+    },
+    "author": "Andrew Grush",
+    "title": "The best Google Pixel 7a alternatives: 5 phones to consider before you buy",
+    "description": "The Google Pixel 7a is here, but what if you aren't sure if it's right for you? Here are the 5 best Pixel 7a alternatives.",
+    "url": "https://www.androidauthority.com/best-google-pixel-7a-alternatives-3320928/",
+    "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2023/05/google-pixel-7a-vs-samsung-galaxy-a54-standing.jpg",
+    "publishedAt": "2023-05-10T19:00:59Z",
+    "content": "After months of rumors and leaks, the Pixel 7a is finally official. The latest mid-range shares a similar design to its predecessor but also introduces some firsts for the Pixel A series, including w… [+12333 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Android Authority"
+    },
+    "author": "Ryan Haines",
+    "title": "Google Pixel 7a review: Setting the (Real) Tone",
+    "description": "What upgrades does Google have in store for its latest mid-range entry? Find out in our Google Pixel 7a review.",
+    "url": "https://www.androidauthority.com/google-pixel-7a-review-3320910/",
+    "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2023/05/google-pixel-7a-cameras-outdoors.jpg",
+    "publishedAt": "2023-05-10T18:52:47Z",
+    "content": "Flagships might get all the attention, but smartphone battles are won and lost in the middle er, mid-range. OEMs look for ways to close the gap on their premium offerings while still trying to hit ap… [+39353 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Presse-citron"
+    },
+    "author": "Presse-citron",
+    "title": "Ce que l’on sait des annonces AI prévues pour la Google I/O",
+    "description": "Les produits ne seront pas les seules stars de l'événement de ce soir.",
+    "url": "https://www.presse-citron.net/sait-annonces-ai-prevues-google-i-o/",
+    "urlToImage": "https://www.presse-citron.net/app/uploads/2023/05/robot.jpg",
+    "publishedAt": "2023-05-10T16:00:34Z",
+    "content": "<ul><li>Google organise une grande conférence ce soir, qui parlera d’intelligence artificielle</li><li>Slides devrait se mettre à générer des images pour les présentations professionnelles</li><li>Ba… [+2444 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Presse-citron"
+    },
+    "author": "Setra",
+    "title": "Satellite : fusion anglo-américaine en orbite basse",
+    "description": "Annoncée en 2021, la fusion entre Inmarsat et Viasat obtient le feu vert de l’autorité britannique de la concurrence.",
+    "url": "https://www.presse-citron.net/?p=552629",
+    "urlToImage": "https://www.presse-citron.net/app/uploads/2022/10/internet-planete-terre-binaire-code-bit.jpg",
+    "publishedAt": "2023-05-10T06:33:37Z",
+    "content": "<ul><li>La CMA, lautorité britannique de la concurrence, donne son accord au projet de fusion entre Viasat et Inmarsat</li><li>Un accord à 7,3 milliards de dollars qui renforcera les capacités des de… [+3830 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "The A.V. Club"
+    },
+    "author": "Manuel Betancourt",
+    "title": "Ted Lasso recap: A sensitive, gratingly sweet episode",
+    "description": "When I first encountered Ted Lasso in 2020, show and character lent themselves to hyperbolic metaphors that stressed just how famished we all were (this was early COVID, remember?) for just some really wholesome content. Ted and the show that encased him coul…",
+    "url": "https://www.avclub.com/ted-lasso-review-season-3-episode-9-1850417253",
+    "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/2b2dc26098158502ca97805238adcd30.jpg",
+    "publishedAt": "2023-05-10T08:00:00Z",
+    "content": "When I first encountered Ted Lassoin 2020, show and character lent themselves to hyperbolic metaphors that stressed just how famished we all were (this was early COVID, remember?) for just some reall… [+7851 chars]"
+    }
+    ]
+    }
